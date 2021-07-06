@@ -93,3 +93,22 @@ footer{
     padding: 15px;
     
 }
+.head{
+    margin-left: 20px;
+}
+.log-in{
+    padding-left: 75%;
+    padding-top: 35px;
+}
+.log-botton{
+    text-decoration: none;
+    background-image:linear-gradient(rgba(128, 128, 128, 0.856), rgb(255, 94, 0));
+    font-weight: 400;
+    color: white;
+    border-radius: 20px;
+    
+}
+.log-id{
+   margin-right: 10px;
+
+}
